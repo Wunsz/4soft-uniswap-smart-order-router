@@ -2,7 +2,8 @@ import { BigNumber } from '@ethersproject/bignumber';
 import { Protocol } from '@uniswap/router-sdk';
 import { ChainId, Percent, Token, TradeType } from '@uniswap/sdk-core';
 import { FeeAmount, Pool } from '@uniswap/v3-sdk';
-import brotli from 'brotli';
+// @ts-ignore
+import brotli from '@wunsz-4soft/brotli';
 import JSBI from 'jsbi';
 import _ from 'lodash';
 
