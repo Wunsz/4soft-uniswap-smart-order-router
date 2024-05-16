@@ -1,13 +1,13 @@
 {
-  "name": "@wunsz-4soft/smart-order-router",
-  "version": "3.25.1-main.4",
+  "name": "@dex-swap/smart-order-router",
+  "version": "3.25.1-main.5",
   "description": "Uniswap Smart Order Router",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/smart-order-router.git"
+    "url": "https://github.com/bullishgopher/uniswap-smart-order-router"
   },
   "license": "GPL",
   "keywords": [],
